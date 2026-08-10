@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm [Glenn](https://www.linkedin.com/in/glenn-niblett-618180112/), an aspiring Front End web developer, based in the UK :flag-gb:.
+I'm [Glenn](https://www.linkedin.com/in/glenn-niblett-618180112/), an aspiring Front End web developer, based in the UK.
 
 I design and build any ideas I can imagine and if I can envision an idea, chances are I'll make it functionally sound thanks to my background in QA Testing.
 
