@@ -1,10 +1,8 @@
 ## Hi there 👋
 
-I'm [Glenn](https://www.linkedin.com/in/glenn-niblett-618180112/), an aspiring Front End web developer, based in the UK 🇬🇧.
+I'm [Glenn](https://www.linkedin.com/in/glenn-niblett-618180112/), an aspiring Front End web developer, based in the UK :flag-gb:.
 
-I design and build any ideas I can imagine.
-
-If I can envision an idea, chances are I'll make it functionally solid thanks to my background in QA Testing.
+I design and build any ideas I can imagine and if I can envision an idea, chances are I'll make it functionally sound thanks to my background in QA Testing.
 
 So far I've made a bunch of smaller projects with [FrontEnd Mentor](https://www.frontendmentor.io/home/my-challenges?tab=completed), a [personal portfolio page](https://acemeistre.github.io/Glenn-Portfolio/) and then two larger projects, the one I'm most proud of being the [Golf Sweepstake app](https://golf-sweepstake-app.vercel.app/)
 
