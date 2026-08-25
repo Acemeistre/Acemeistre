@@ -6,7 +6,7 @@ I design and build any ideas I can imagine and if I can envision an idea, chance
 
 So far I've made a bunch of smaller projects with [FrontEnd Mentor](https://www.frontendmentor.io/home/my-challenges?tab=completed), a [personal portfolio page](https://acemeistre.github.io/Glenn-Portfolio/) and then two larger projects, the one I'm most proud of being the [Golf Sweepstake app](https://golf-sweepstake-app.vercel.app/)
 
-If you want to learn how I started, checkout the codecademy website where I studied and got certified on the Front-End web developer course.
+If you would like to learn how I started, please checkout the codecademy website where I studied and got certified on the Front-End web developer course.
 
 ### What I use:
 🎓 Education - [![Codecademy](https://img.shields.io/badge/Codecademy-%2321759B.svg?logo=codecademy&logoColor=white)](https://www.codecademy.com/profiles/Acemeistre) </br>
